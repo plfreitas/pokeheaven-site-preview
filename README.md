@@ -1,6 +1,6 @@
 # 🌟 PokeHeaven - Website & Portal Oficial
 
-![Banner do Projeto](frontend/public/lugia.png)
+<img width="2752" height="1536" alt="lugia" src="https://github.com/user-attachments/assets/41ddbf71-0578-49a6-b25b-f2e8cd0a4d8c" />
 
 > **PokeHeaven** é o portal oficial, painel de controle e ranking do servidor de Pokémon alternativo. Um sistema moderno de alta performance separado em arquitetura Cliente-Servidor.
 
